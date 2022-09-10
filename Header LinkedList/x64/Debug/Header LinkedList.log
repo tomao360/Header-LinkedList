@@ -1,0 +1,6 @@
+﻿  Header LinkedList-7_9.c
+C:\Users\97252\source\repos\Header LinkedList\Header LinkedList\Header LinkedList-7_9.c(205,11): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\97252\source\repos\Header LinkedList\Header LinkedList\Header LinkedList-7_9.c(188,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\97252\source\repos\Header LinkedList\Header LinkedList\Header LinkedList-7_9.c(246,18): warning C4013: 'getch' undefined; assuming extern returning int
+C:\Users\97252\source\repos\Header LinkedList\Header LinkedList\Header LinkedList-7_9.c(242,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+  Header LinkedList.vcxproj -> C:\Users\97252\source\repos\Header LinkedList\x64\Debug\Header LinkedList.exe
